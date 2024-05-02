@@ -18,9 +18,9 @@ The script relies on several Python packages:
 Ensure that Python 3.10+ is installed on your machine.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/JunaidPinjari/fk-fyp-automation.git
+1. Clone the repository: `git clone https://github.com/JunaidPinjari/fk-fyp-automation.git`
 2. Navigate to the project directory
-3. Install dependencies: pip install -r requirements.txt
+3. Install dependencies: `pip install -r requirements.txt`
 
 ## Configuration
 1. Before running the script, head to config.json and make necessary changes such as username, password etc. 
@@ -32,4 +32,4 @@ Ensure that Python 3.10+ is installed on your machine.
 2. Leave outputPayloadConfig.json as is, unless you know what you're doing.
 
 ## Running the script
-1. Once you're through with the setup, run: python main.py
+1. Once you're through with the setup, run: `python main.py`
