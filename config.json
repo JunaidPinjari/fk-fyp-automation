@@ -1,0 +1,22 @@
+{
+    "username": "username",
+    "password": "password",
+    "port": 7,
+    "headless": false,
+    "interval_minutes": 0,
+    "hours_count": 24,
+    "payloads": [
+        {
+            "name": "EB",
+            "payload": "B39293CB3E2034A1AA03000100028C10"
+        },
+        {
+            "name": "k",
+            "payload": "B39293CB3E2034A1AA03003B00036DDD"
+        },
+        {
+            "name": "VI",
+            "payload": "B39293CB3E2034A1AA03001A00087C10"
+        }
+    ]
+}

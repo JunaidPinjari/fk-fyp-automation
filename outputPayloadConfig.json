@@ -1,0 +1,73 @@
+{
+    "EB": [
+        {
+            "name": "EB (kWh)",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "DG (kWh)",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        }
+    ],
+    "k": [
+        {
+            "name": "Total kW",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "Total kVA",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "Total kVAr",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        }
+    ],
+    "VI": [
+        {
+            "name": "Frequency",
+            "characterCount": 8,
+            "divisionFactor": 10
+        },
+        {
+            "name": "Voltage (R)",
+            "characterCount": 8,
+            "divisionFactor": 10
+        },
+        {
+            "name": "Voltage (Y)",
+            "characterCount": 8,
+            "divisionFactor": 10
+        },
+        {
+            "name": "Voltage (B)",
+            "characterCount": 8,
+            "divisionFactor": 10
+        },
+        {
+            "name": "Current (R)",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "Current (Y)",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "Current (B)",
+            "characterCount": 8,
+            "divisionFactor": 1000
+        },
+        {
+            "name": "Power Factor",
+            "characterCount": 8,
+            "divisionFactor": 100
+        }
+    ]
+}
