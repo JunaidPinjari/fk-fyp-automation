@@ -24,10 +24,10 @@ Ensure that Python 3.10+ is installed on your machine.
 
 ## Configuration
 1. Before running the script, head to config.json and make necessary changes such as username, password etc. 
-    -- Set headless to false, to view browser while running and for debugging.
-    -- interval_minutes defines the interval in minutes the script should automatically run in.
-    -- hours_count defines the total number of hours the script should run for and following which should automatically stop.
-    -- Set interval_minutes to 0, to run only once immediately without loop.
+    - Set headless to false, to view browser while running and for debugging.
+    - interval_minutes defines the interval in minutes the script should automatically run in.
+    - hours_count defines the total number of hours the script should run for and following which should automatically stop.
+    - Set interval_minutes to 0, to run only once immediately without loop.
 
 2. Leave outputPayloadConfig.json as is, unless you know what you're doing.
 
